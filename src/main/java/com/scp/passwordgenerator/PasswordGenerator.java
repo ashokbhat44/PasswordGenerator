@@ -1,3 +1,5 @@
+// Program to generate password using ThreadLocalRandom class
+
 package com.scp.passwordgenerator;
 
 import java.util.InputMismatchException;
